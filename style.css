@@ -1,0 +1,72 @@
+.logo_nav{
+    width: 198.07px;
+    height: 59px;
+}
+
+.nav_sign_btn{
+    padding: 5px 15px;
+    background: #21B573;
+    border-radius: 33px;
+    color: white;
+    border: none;
+}
+
+.nav-item{
+    padding-left: 40px;
+}
+
+.illustrate_img{
+    width: 54px;
+    height: 36px;
+}
+
+.nav_bg{
+    background-color: #F0FFF0;
+}
+
+.nav___navv{
+    background-color: #F0FFF0;
+}
+
+.box_four_1{
+    background-color: #F0FFF0;
+     /* margin-left: 10px; */
+    width: 270px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    
+}
+
+.box_four_1:hover{
+    background-color: #fff;
+    width: 300px;
+    padding: 10px 20px;
+     box-shadow: 5px 5px 10px lightgray;
+    
+}
+
+.card img{
+    padding: 10px 20px ;
+    border-radius: 10px;
+}
+
+.card{
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.card-footer{
+    border-top: none;
+}
+
+footer{
+    color: white;
+    padding: 20px 20px;
+}
+
+footer li{
+    list-style: none;
+}
+#courses{
+    justify-content: center;
+}
